@@ -1,0 +1,25 @@
+name: Execute Jupyter notebook for web scraping
+
+on:
+  schedule:
+    - cron: "0 13 * * *"  # Schedule to run every day at 9:00 AM (adjust as needed)
+
+jobs:
+  execute_notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9.12  # Specify the Python version you need
+
+      - name: Install Jupyter
+        run: python -m pip install jupyter
+
+      - name: Execute Jupyter notebook
+        run: |
+          jupyter nbconvert --execute /path/to/repository/web_bsoup_test2.ipynb
