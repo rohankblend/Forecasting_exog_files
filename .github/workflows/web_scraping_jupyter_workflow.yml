@@ -26,4 +26,4 @@ jobs:
 
       - name: Execute Jupyter notebook
         run: |
-          jupyter nbconvert --execute /path/to/repository/web_bsoup_test2.ipynb
+          jupyter nbconvert --execute /Forecasting_exog_files/web_bsoup_test2.ipynb
