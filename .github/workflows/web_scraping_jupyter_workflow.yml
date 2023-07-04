@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: "30 8 * * *"  # Schedule to run every day at 9:00 AM (adjust as needed)
+    - cron: "0 9 * * *"  # Schedule to run every day at 9:00 AM (adjust as needed)
 
 jobs:
   execute_notebook:
@@ -26,4 +26,4 @@ jobs:
 
       - name: Execute Jupyter notebook
         run: |
-          jupyter nbconvert --execute /Forecasting_exog_files/web_bsoup_test2.ipynb
+          jupyter nbconvert --execute Forecasting_exog_files/web_bsoup_test2.ipynb
