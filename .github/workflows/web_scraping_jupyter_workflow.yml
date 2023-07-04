@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: 3.9.12  # Specify the Python version you need
-          cache: 'pip'
+#           cache: 'pip'
 
       - name: Install Jupyter
         run: python -m pip install jupyter
