@@ -1,0 +1,8 @@
+﻿Feature,URL,div_element,snap_element_value,snap_element_max_date
+UNRATE,https://fred.stlouisfed.org/series/UNRATE,float-start meta-col col-sm-5 col-5,series-meta-observation-value,series-meta-value
+CPI,https://fred.stlouisfed.org/series/CPIAUCSL,float-start meta-col col-sm-5 col-5,series-meta-observation-value,series-meta-value
+GDP,https://fred.stlouisfed.org/series/GDP,float-start meta-col col-sm-5 col-5,series-meta-observation-value,series-meta-value
+FED_GRANTS,https://fred.stlouisfed.org/series/BOGZ1FA206403131Q,float-start meta-col col-sm-5 col-5,series-meta-observation-value,series-meta-value
+S&P500,https://www.nasdaq.com/market-activity/index/spx,jupiter22-quote-header__pricing-information-saleprice,,
+GOLD_PRICE,https://markets.businessinsider.com/commodities/gold-price,price-section__values,price-section__current-value,
+CRUDE_PRICE,https://www.nasdaq.com/market-activity/commodities/cl:nmx,symbol-page-header__pricing symbol-page-header__fix--margin loaded,symbol-page-header__pricing-price,
