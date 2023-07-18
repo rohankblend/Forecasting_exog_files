@@ -31,6 +31,7 @@ jobs:
       - name: Run script and update data
         run: |
           jupyter nbconvert --to script web_scraping.ipynb
+          python web_scraping.py
           
       - name: Commit and Push Changes
         run: |
