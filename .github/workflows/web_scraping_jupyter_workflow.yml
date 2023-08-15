@@ -6,7 +6,7 @@ on:
 #   pull_request:
 #     branches: [ main ]
   schedule:
-    - cron: "30 03 * * *"  # Schedule to run every day at 09:00 AM IST (adjust as needed)
+    - cron: "30 06 * * *"  # Schedule to run every day at 12:00 PM IST (adjust as needed)
 
 jobs:
   execute_notebook:
