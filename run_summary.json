@@ -1,12 +1,6 @@
 {
-    "Update_date": "14-08-2023",
+    "Update_date": "15-08-2023",
     "Error_URLs": [
-        "https://fred.stlouisfed.org/series/UNRATE",
-        "https://fred.stlouisfed.org/series/CPIAUCSL",
-        "https://fred.stlouisfed.org/series/GDP",
-        "https://fred.stlouisfed.org/series/BOGZ1FA206403131Q",
-        "https://www.nasdaq.com/market-activity/index/spx",
-        "https://markets.businessinsider.com/commodities/gold-price",
-        "https://www.nasdaq.com/market-activity/commodities/cl:nmx"
+        "https://in.investing.com/indices/us-spx-500"
     ]
 }
