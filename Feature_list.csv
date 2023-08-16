@@ -1,6 +1,6 @@
 ﻿Feature,URL,div_element,sub_element_type,sub_element_value,sub_element_max_date
 CRUDE_PRICE,https://in.investing.com/commodities/crude-oil,last u-down,bdo,last-price-value js-streamable-element,
-S&P500,https://in.investing.com/indices/us-spx-500,last u-up,bdo,last-price-value js-streamable-element,
+S&P500,https://in.investing.com/indices/us-spx-500,last u-down,bdo,last-price-value js-streamable-element,
 UNRATE,https://fred.stlouisfed.org/series/UNRATE,float-start meta-col col-sm-5 col-5,snap,series-meta-observation-value,series-meta-value
 CPI,https://fred.stlouisfed.org/series/CPIAUCSL,float-start meta-col col-sm-5 col-5,snap,series-meta-observation-value,series-meta-value
 GDP,https://fred.stlouisfed.org/series/GDP,float-start meta-col col-sm-5 col-5,snap,series-meta-observation-value,series-meta-value
