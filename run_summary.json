@@ -1,6 +1,7 @@
 {
-    "Update_date": "07-09-2023",
+    "Update_date": "08-09-2023",
     "Error_URLs": [
-        "https://in.investing.com/commodities/crude-oil"
+        "https://in.investing.com/commodities/crude-oil",
+        "https://in.investing.com/indices/us-spx-500"
     ]
 }
