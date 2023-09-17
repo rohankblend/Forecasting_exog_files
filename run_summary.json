@@ -1,6 +1,7 @@
 {
-    "Update_date": "15-09-2023",
+    "Update_date": "16-09-2023",
     "Error_URLs": [
-        "https://in.investing.com/commodities/crude-oil"
+        "https://in.investing.com/commodities/crude-oil",
+        "https://markets.businessinsider.com/commodities/gold-price"
     ]
 }
