@@ -1,7 +1,8 @@
 {
-    "Update_date": "01-11-2023",
+    "Update_date": "02-11-2023",
     "Error_URLs": [
         "https://in.investing.com/commodities/crude-oil",
-        "https://in.investing.com/indices/us-spx-500"
+        "https://in.investing.com/indices/us-spx-500",
+        "https://markets.businessinsider.com/commodities/gold-price"
     ]
 }
