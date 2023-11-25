@@ -1,7 +1,6 @@
 {
-    "Update_date": "23-11-2023",
+    "Update_date": "24-11-2023",
     "Error_URLs": [
-        "https://in.investing.com/indices/us-spx-500",
-        "https://markets.businessinsider.com/commodities/gold-price"
+        "https://in.investing.com/indices/us-spx-500"
     ]
 }
