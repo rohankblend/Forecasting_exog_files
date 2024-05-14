@@ -1,4 +1,6 @@
 {
-    "Update_date": "12-05-2024",
-    "Error_URLs": []
+    "Update_date": "13-05-2024",
+    "Error_URLs": [
+        "https://markets.businessinsider.com/commodities/gold-price"
+    ]
 }
