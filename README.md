@@ -7,3 +7,5 @@ The repository consists of the following files
   - **run_summary.json** : Output file giving a summary of when the last web-scraping happend along with failed extraction URLs if any
   - **web_scraping.ipynb** : Main execution script for extracting and updating the data for exogenous features
   - **web_scraping_jupyter_workflow.yml** : YAML file for triggering execution of web scraping script with the help of a cron job triggered using Github Actions
+
+For more details, please refer this confluence page [Exogenous Features](https://blend360.atlassian.net/wiki/spaces/DSDH/pages/386007649/Exogeneous+Features) 
