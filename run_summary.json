@@ -1,9 +1,10 @@
 {
-    "Update_date": "24-02-2025",
+    "Update_date": "25-02-2025",
     "Error_URLs": [
         "https://fred.stlouisfed.org/series/UNRATE",
         "https://fred.stlouisfed.org/series/CPIAUCSL",
         "https://fred.stlouisfed.org/series/GDP",
-        "https://fred.stlouisfed.org/series/BOGZ1FA206403131Q"
+        "https://fred.stlouisfed.org/series/BOGZ1FA206403131Q",
+        "https://markets.businessinsider.com/commodities/gold-price"
     ]
 }
